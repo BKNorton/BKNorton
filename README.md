@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello and Welcome! 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **BKNorton/BKNorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
