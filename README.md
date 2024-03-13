@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4B8F13&text=Hello%20and%20Welcome!%20🕹️"/>
 </p>
-
 <br/>
 
 <p align="center">
@@ -43,7 +42,26 @@
   I have completeded certificates in Software Development and UX Design at Code Louisville.
 
   I currently work as a Signal Support Systems Specialist for the US Army National Guard
+
+  I love to learn new technologies and to be creative and build things. I am currently learning how to build video games in the Unity engine. It's 
+  a hobby right now but I hope one day to share my games with the world. I have a lot of ideas I would like to bring to life.
 </p>
+
+<h2>
+  Skills
+</h2>
+
+<ul>
+  <li>C#</li>
+  <li>Developing front-end and back-end in .Net Maui (still learning)</li>
+  <li>XAML</li>
+  <li>Developing video games in Unity. This includes coding, light design, level design, and everyting inbeteween(still learning)</li>
+  <li>Creating ASP .net web APIs using Entity Framework</li>
+  <li>SQL</li>
+  <li>Using user research driven approach to designing UI prototypes (UX)</li>
+  <li>Figma</li>
+  <li>Always wanting to learn more</li>
+</ul>
 
 <h2>
   Current Projects:
@@ -74,7 +92,7 @@
   <li>You play a detective sent to Pope Lick to find a missing kid but discover a much darker mystery</li> 
   <li>First person perspective</li>
   <li>Built all movement functionality</li>
-  <li>Created interaction system to allow player to recognoxe and interact with other objects</li>
+  <li>Created interaction system to allow player to recognize and interact with other objects</li>
   <li>Created camera system that allows plaer to take in game pictures and save the image. These picture will later be used as clue to progeress the player.</li>
   <li>Created inventory system with UI</li>
 </ul>
