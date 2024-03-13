@@ -50,7 +50,7 @@
 </h2>
 
 <h3>
-  Item Invnetory App
+  Item Inventory App
 </h3>
 
 <p>
