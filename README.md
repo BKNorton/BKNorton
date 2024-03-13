@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=DE5FAE&text=Hello%20and%20Welcome!%20🕹️"/>
 </p>
 
+<br/>
+
+<p align="center">
+  <img 
+    height="500"
+    src="https://media1.tenor.com/m/Q09NuZuQlVYAAAAC/orisa-overwatch.gif"/>
+</p>
+<br/>
+
 <h1 align="center"> 
   Follow me at 
 </h1>
@@ -23,14 +32,6 @@
       src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"/>
   </a>
 </p>
-<br/>
-
-<p align="center">
-  <img 
-    height="500"
-    src="https://media1.tenor.com/m/Q09NuZuQlVYAAAAC/orisa-overwatch.gif"/>
-</p>
-<br/>
 
 <h1>
   About Me
