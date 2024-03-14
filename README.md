@@ -39,7 +39,7 @@
 <p>
   My name is Brandon Norton but I go by my middle name Kirk. I am a software developer trying to find my first job within my field.
 
-  I have completeded certificates in Software Development and UX Design at Code Louisville.
+  I have completed certificates in Software Development and UX Design at Code Louisville.
 
   I currently work as a Signal Support Systems Specialist for the US Army National Guard
 
