@@ -93,7 +93,7 @@
   <li>First person perspective</li>
   <li>Built all movement functionality</li>
   <li>Created interaction system to allow player to recognize and interact with other objects</li>
-  <li>Created camera system that allows player to take in game pictures and save the image. These picture will later be used as clue to progeress the player.</li>
+  <li>Created camera system that allows player to take in-game pictures and save the image. These picture will later be used as clue to progeress the player.</li>
   <li>Created inventory system with UI</li>
 </ul>
 
