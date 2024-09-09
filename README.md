@@ -55,7 +55,7 @@
 
 <ul>
   <li>C#</li>
-  <li>Developing front-end and back-end in .Net Maui (still learning)</li>
+  <li>Developing front-end and back-end in .Net Maui.</li>
   <li>XAML</li>
   <li>Developing video games in Unity. This includes coding, light design, level design, and everyting inbeteween(still learning)</li>
   <li>Creating ASP .net web APIs using Entity Framework</li>
