@@ -58,7 +58,7 @@
   <li>Developing front-end and back-end in .Net Maui.</li>
   <li>XAML</li>
   <li>Developing video games in Unity. This includes coding, light design, level design, and everyting inbeteween(still learning)</li>
-  <li>Creating ASP .net web APIs using Entity Framework</li>
+  <li>Creating ASP .Net Web APIs using Entity Framework</li>
   <li>SQL</li>
   <li>Using user research driven approach to designing UI prototypes (UX)</li>
   <li>Figma</li>
